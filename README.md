@@ -1,63 +1,77 @@
 <div align="center">
 
-# 🍽️ Restaurant Order Analysis using SQL & MySQL
+# 🍽️ Restaurant Order Analysis using SQL
 
-### End-to-End SQL Data Analytics Portfolio Project
+### Power BI Developer • Data Analytics • SQL Business Analysis
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Database](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Data%20Analytics-SQL-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+<p align="center">
 
-**Analyze restaurant sales, menu performance, customer ordering behavior, and business insights using SQL.**
+<img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data-Analytics-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Business%20Analysis-336791?style=for-the-badge"/>
 
-⭐ If you like this project, don't forget to Star this repository.
+</p>
+
+### Turning Raw Restaurant Data into Actionable Business Insights
 
 </div>
 
 ---
 
-# 📖 Project Overview
+# 📖 Overview
 
-This project demonstrates an end-to-end SQL analysis of a restaurant database using **MySQL**.
+This repository contains a complete SQL-based business analysis of restaurant order data.
 
-The goal is to answer real business questions by analyzing menu items, customer orders, pricing, and purchasing behavior through structured SQL queries.
+The analysis explores menu performance, pricing strategy, customer ordering behavior, and sales patterns using MySQL.
 
----
-
-# 🎯 Objectives
-
-## 1️⃣ Menu Analysis
-
-- Total Menu Items
-- Price Range
-- Cheapest Item
-- Most Expensive Item
-- Category-wise Analysis
+The generated insights are designed to support **business decision-making** and can be further transformed into interactive **Power BI dashboards**.
 
 ---
 
-## 2️⃣ Order Analysis
+# 🎯 Analysis Objectives
 
-- Total Orders
-- Total Items Ordered
-- Date Range
-- Largest Orders
-- Order Distribution
+## 📌 Menu Analysis
 
----
-
-## 3️⃣ Customer Behavior Analysis
-
-- Most Ordered Items
-- Least Ordered Items
-- Highest Spending Orders
-- Category Contribution
-- Customer Purchase Trends
+- Explore menu items
+- Analyze pricing
+- Compare food categories
+- Identify premium menu items
 
 ---
 
-# 🗂️ Project Structure
+## 📌 Order Analysis
+
+- Analyze order volume
+- Find largest orders
+- Study order trends
+- Measure customer activity
+
+---
+
+## 📌 Customer Behavior Analysis
+
+- Most ordered dishes
+- Least ordered dishes
+- Highest spending customers
+- Category contribution
+- Revenue-driving products
+
+---
+
+# 🛠 Tech Stack
+
+| Tool | Purpose |
+|-------|----------|
+| Power BI | Dashboard Development |
+| SQL | Business Analysis |
+| MySQL | Database |
+| Excel | Data Validation |
+| GitHub | Version Control |
+
+---
+
+# 📂 Repository Structure
 
 ```
 restaurant-order-analysis-mysql
@@ -75,124 +89,96 @@ restaurant-order-analysis-mysql
 
 ---
 
-# 🛠️ Tech Stack
+# 📊 Analysis Performed
 
-| Technology | Usage |
-|------------|-------|
-| MySQL | Database |
-| SQL | Data Analysis |
-| MySQL Workbench | Query Execution |
-| GitHub | Project Hosting |
+✔ Menu Exploration
 
----
+✔ Price Analysis
 
-# 📊 Database
+✔ Category Comparison
 
-Database Name
+✔ Order Analysis
 
-```
-restaurant_db
-```
+✔ Customer Purchase Behavior
 
-Main Tables
+✔ Revenue Analysis
 
-```
-menu_items
+✔ Business Insights
 
-order_details
-```
+✔ SQL Query Optimization
 
 ---
 
-# 📈 Business Questions Solved
+# 📈 Business Insights
 
-✅ Total Menu Items
-
-✅ Menu Categories
-
-✅ Price Analysis
-
-✅ Average Category Price
-
-✅ Total Orders
-
-✅ Total Items Ordered
-
-✅ Largest Orders
-
-✅ Most Ordered Dish
-
-✅ Least Ordered Dish
-
-✅ Top Spending Customers
-
-✅ Category Performance
+- Restaurant menu performance analysis
+- Customer ordering patterns
+- Product popularity analysis
+- Revenue-driving menu categories
+- High-value customer orders
+- Business-focused SQL reporting
 
 ---
 
-# 💡 Key Insights
+# 💼 Skills Demonstrated
 
-- Menu contains **32 items** across **4 categories**.
-- Italian cuisine has the highest average price.
-- The analysis covers **5,370 orders** and **12,234 ordered items**.
-- Only a small number of orders contain more than 12 items.
-- Hamburger is the most frequently ordered menu item.
-- Italian dishes contribute significantly to the highest-value orders.
-
----
-
-# 📄 Project Report
-
-A detailed analysis report is available in:
-
-```
-Plate_and_Ledger_Order_Analytics.pdf
-```
-
----
-
-# 🚀 Skills Demonstrated
-
-- SQL Queries
-- JOIN
-- GROUP BY
-- Aggregate Functions
-- ORDER BY
-- LIMIT
-- Business Insights
+- SQL
+- Data Analytics
+- Business Analysis
+- Relational Database
+- Query Optimization
 - Data Exploration
-- Relational Database Analysis
+- Business Reporting
+- Dashboard Thinking
+- Power BI Data Preparation
 
 ---
 
-# 📌 Future Improvements
+# 📄 Documentation
 
-- Power BI Dashboard
-- Python Data Analysis
-- KPI Dashboard
-- Customer Segmentation
+Complete SQL analysis is available in:
+
+📘 **Plate_and_Ledger_Order_Analytics.pdf**
+
+---
+
+# 🚀 Future Scope
+
+- Interactive Power BI Dashboard
+- Executive KPI Dashboard
+- DAX Measures
 - Revenue Dashboard
-- Sales Forecasting
+- Customer Segmentation
+- Business Performance Dashboard
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 About Me
 
-## Nitin Pandey
+# Nitin Pandey
 
-**Data Analyst | SQL Developer | Power BI Developer**
+### Power BI Developer | Data Analytics
 
-### Connect with Me
+I specialize in transforming raw business data into interactive dashboards and meaningful business insights using **Power BI, SQL, Excel, and Python**.
 
-- 💼 LinkedIn: https://www.linkedin.com/in/nitinpandey-data
-- 💻 GitHub: https://github.com/nitinpandeynp42
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/nitinpandey-data
+
+💻 GitHub
+
+https://github.com/nitinpandeynp42
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting this repository!
+### ⭐ Thank you for visiting this repository!
 
-**If you found this project useful, please consider giving it a Star ⭐**
+If you found this analysis useful, consider giving it a ⭐.
 
 </div>
